@@ -1,0 +1,6 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS003UzitiObjektuKonzole\CS003UzitiObjektuKonzole\obj\Debug\CS003UzitiObjektuKonzole.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS003UzitiObjektuKonzole\CS003UzitiObjektuKonzole\bin\Debug\CS003UzitiObjektuKonzole.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS003UzitiObjektuKonzole\CS003UzitiObjektuKonzole\bin\Debug\CS003UzitiObjektuKonzole.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS003UzitiObjektuKonzole\CS003UzitiObjektuKonzole\bin\Debug\CS003UzitiObjektuKonzole.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS003UzitiObjektuKonzole\CS003UzitiObjektuKonzole\obj\Debug\CS003UzitiObjektuKonzole.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS003UzitiObjektuKonzole\CS003UzitiObjektuKonzole\obj\Debug\CS003UzitiObjektuKonzole.pdb
